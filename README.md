@@ -1,10 +1,11 @@
 # Tiago Santos Palma
 
-## 🚀 About Me
+### Hello World! 👋
 
 **Backend Developer**
 
-Hello World! I'm Tiago Palma, a Brazilian technology student pursuing an Associate Degree. I specialize in Java and Spring Boot, C# .NET, and I'm a Linux enthusiast.
+I'm **Tiago Palma**, a passionate Brazilian programmer and technology enthusiast. I hold degrees in **Technology Management** and **Business Administration**, and I'm currently diving deep into the world of software development.
+
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santospalma.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-palma-806a3a347/)
@@ -38,6 +39,18 @@ Hello World! I'm Tiago Palma, a Brazilian technology student pursuing an Associa
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+---
+
+🌱 Always Learning
+
+I'm constantly exploring new technologies and improving my skills to stay updated in the ever-evolving tech landscape.
+
+🚀 Goals
+
+- Contribute to meaningful projects that solve real-world problems.
+- Collaborate with innovative teams to create high-quality software solutions.
+- Share knowledge and help others in the tech community.
 
 ---
 

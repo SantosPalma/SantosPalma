@@ -4,8 +4,7 @@
 
 **Software Developer | Backend & Systems-Oriented**
 
-Sou **Tiago Palma**, desenvolvedor brasileiro com foco em **engenharia de software**, **back-end**, **sistemas** e **fundamentos sólidos de computação**.  
-Tenho formação em **Gestão de Tecnologia** e **Administração**, unindo visão técnica e entendimento de negócio.
+Sou **Tiago Palma**, desenvolvedor brasileiro com foco em **engenharia de software**, **back-end**, **sistemas** e **fundamentos sólidos de computação**. Tenho formação em **Gestão de Tecnologia** e **Administração**, unindo visão técnica e entendimento de negócio.
 
 Atualmente, estudo e desenvolvo projetos que fogem do padrão CRUD, explorando **arquiteturas orientadas a eventos**, **design funcional**, **baixo nível**, **linguagens de sistemas** e **interfaces reativas modernas**.
 

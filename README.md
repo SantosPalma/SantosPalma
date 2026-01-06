@@ -80,10 +80,10 @@ Busco compreender sistemas em profundidade, indo além de frameworks e soluçõe
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats    
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tiagobure&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiagobure&layout=compact&theme=radical)
+
+
 
 ---
 
